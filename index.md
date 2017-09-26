@@ -4,11 +4,11 @@ Over two years’ experience in IT Industry, worked in Database development & Ad
 
 ### Skillsets
 
-+**General Skills:**   			  Good communication skills, Team Player, Punctual & Hardworking
-+**Operating Systems:**		    Windows, Linux/Unix/AIX
-+**Web Technologies:**        JavaScript, HTML, CSS, JavaScript
-+**IDE Tools:** 			        Oracle APEX, Eclipse, Adobe Dreamweaver CS6 
-+**Programming Languages:** 	Java
-+**Database Systems:**		    Oracle 12c, MySQL
-+**Open System:** 			      Puppet
+* **General Skills:**   			  Good communication skills, Team Player, Punctual & Hardworking
+* **Operating Systems:**		    Windows, Linux/Unix/AIX
+* **Web Technologies:**        JavaScript, HTML, CSS, JavaScript
+* **IDE Tools:** 			        Oracle APEX, Eclipse, Adobe Dreamweaver CS6 
+* **Programming Languages:** 	Java
+* **Database Systems:**		    Oracle 12c, MySQL
+* **Open System:** 			      Puppet
 
