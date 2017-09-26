@@ -1,8 +1,6 @@
 ## Welcome to Dhananjay Shinkar's Website
 
-You can use the [editor on GitHub](https://github.com/dhananjayshinkar/myWebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Over two years’ experience in IT Industry, worked in Database development & Administration, Setting up MySQL database servers and management. Experience in managing and supporting Linux\Unix\AIX production servers
 
 ### Markdown
 
